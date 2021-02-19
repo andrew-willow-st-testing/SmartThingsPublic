@@ -14,7 +14,7 @@
  *
  */
 definition(
-	name: "Beacon Control",
+	name: "Beacon Control 2: just to clarify, this is not the same smartapp.",
 	category: "SmartThings Internal",
 	namespace: "smartthings",
 	author: "SmartThings",
