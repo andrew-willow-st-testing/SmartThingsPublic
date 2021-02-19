@@ -16,7 +16,7 @@
  *	Date: 2014-5-21
  */
 definition(
-    name: "Button Controller",
+    name: "Button Controller 2 more button",
     namespace: "smartthings",
     author: "SmartThings",
     description: "Control devices with buttons like the Aeon Labs Minimote",
