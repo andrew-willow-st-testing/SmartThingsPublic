@@ -16,7 +16,7 @@
  */
 
 definition(
-    name: "Big Turn ON",
+    name: "Big Turn ON: A Larger Switch",
     namespace: "smartthings",
     author: "SmartThings",
     description: "Turn your lights on when the SmartApp is tapped or activated.",
